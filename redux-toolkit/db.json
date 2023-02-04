@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 6,
+      "title": "Update",
+      "author": "typicode"
+    },
+    {
+      "id": 7,
+      "title": "OK",
+      "author": "typicode"
+    },
+    {
+      "id": 8,
+      "title": "json-server-8",
+      "author": "typicode"
+    },
+    {
+      "id": 9,
+      "title": "json-server-9",
+      "author": "typicode"
+    },
+    {
+      "title": null,
+      "body": null,
+      "id": 10
+    },
+    {
+      "title": "",
+      "body": "",
+      "id": 11
+    },
+    {
+      "title": "hello",
+      "body": "hello",
+      "id": 12
+    },
+    {
+      "title": "NEW",
+      "body": "NEW",
+      "id": 13
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
